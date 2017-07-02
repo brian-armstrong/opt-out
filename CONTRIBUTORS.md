@@ -1,1 +1,1 @@
-[brian-armstrong](https://github.com/brian-armstrong)
+* [brian-armstrong](https://github.com/brian-armstrong)

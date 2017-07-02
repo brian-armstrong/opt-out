@@ -3,6 +3,8 @@ Compendium of various "opt-out" privacy option pages
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License (CC-BY 4.0)
 
+Contributions welcome! If you contribute, add your name to CONTRIBUTORS.md if you like. You agree to contribute to this list under CC-BY 4.0.
+
 ## Telecom
 
 ### AT&T

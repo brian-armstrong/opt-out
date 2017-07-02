@@ -1,6 +1,8 @@
 # opt-out
 Compendium of various "opt-out" privacy option pages
 
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License (CC-BY 4.0)
+
 ## Telecom
 
 ### AT&T
